@@ -1,0 +1,7 @@
+SOurcE cOdE rEprEsEnts thE pArt Of prOcEss thAt cOntAIns thE prOgrAmmIng
+lAnguAgE ItsElf. YOu mAy usE A tExt EdItOr tO wrItE yOur sOurcE cOdE fIlE. A cOmpIlEr wIll bE usEd tO prOducE A mAchInE rEprEsEntAtIOn Of yOur sOurcE cOdE. Such
+rEprEsEntAtIOn mAy shOw yOur cOdE As hExAdEcImAl Or
+bInAry fOrmAts. ThE rEsultIng hExAdEcImAl cOdE wIll cOntAIn cOmbInAtIOns Of numbErs such 1 3 5 8 2 4 6 9
+12 21 13 31 14 41 15 51 16 61 17 71 18 81 19 91 100 Or
+cOmbInAtIOns Of chArActErs And numbErs such As 1A3B4CODEFA, fOr ExAmplE.
+46
